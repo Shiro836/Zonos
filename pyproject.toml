@@ -24,6 +24,8 @@ dependencies = [
     "xxhash>=3.5.0",
     "pytictoc>=1.5.3",
     "audiobox-aesthetics",
+    "flask>=3.1.1",
+    "requests>=2.32.3",
 ]
 
 # These are technically optional, but mamba-ssm is required to run hybrid models.
